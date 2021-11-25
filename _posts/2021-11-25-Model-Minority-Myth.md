@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora|Playfair+Display:700i,900');
+## Model Minority Myth
 
-html,
-body {
 Asian Americans grow up with a heavy weight on their chests. Familial pressure, the strain of perfection in school, and general societal expectations force them into the rigid mold of being a ‘Model Minority.’ This creates unreasonably high expectations on Asian Americans, where their accomplishments are downplayed and their struggles are ignored.
 The Model Minority Myth stems from the illusion that America is a meritocracy that rewards hard work and bootstrap pulling. Anyone can be in an economically advantageous situation, the people who aren’t just didn’t work hard enough. The differences between minority achievement are down to hard work, family values, and cultural upbringing.
 In order to understand how Asians came to be the ‘Model Minority’, there is some important historical context to understand. It begins with the Chinese Exclusion Act, which made Asian American immigration borderline impossible. Other restrictive policies followed such as the Geary Act, and Executive Order 9066, which only further cemented anti-Asian sentiments into the general American consciousness.
@@ -13,6 +11,3 @@ The label of Asian American includes an extremely diverse set of ethnicities and
 When Asian Americans reach the upper echelons of white spaces they frequently find themselves ‘othered’ and used as ammunition against other minorities. Asian Americans may gain high-paying respectable jobs, but they are underrepresented in leadership positions.
 Being a ‘Model Minority’ is nothing to strive for, and it doesn’t allot privilege nor the proximity to whiteness that it promises. This article shows how fickle the American consciousness is, how easily public opinion towards minorities can change. Specifically, it shows how 9/11 changed America’s social perception of Muslim Americans. We saw a little of this happen during the emergence of Covid-19 and suddenly the respect that Asian Americans had garnered from the white majority was broken and they were ‘othered’ again.
 Hopefully, through this compilation of resources and information, a larger picture is painted and this myth can be put to bed.
-  margin: 0;
-  width: 100%;
-}
